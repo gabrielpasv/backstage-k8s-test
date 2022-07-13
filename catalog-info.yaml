@@ -4,6 +4,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: client-hub
   name: client-hub
+  namespace: client-hub
 spec:
   lifecycle: production
   owner: my-team
